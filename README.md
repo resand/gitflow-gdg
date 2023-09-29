@@ -1,1 +1,1 @@
-# gitflow-gdg
+# Gitflow demo
